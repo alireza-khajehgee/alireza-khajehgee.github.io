@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-alireza-khajehgee borned in IRAN-guilan ili student 
+
 
 ### More Information
 
