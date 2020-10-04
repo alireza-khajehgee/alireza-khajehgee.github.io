@@ -9,8 +9,7 @@ published: true
 
 ### More Information
 
-I was born in the year seventy-six,Iranian Language Institute,computer engineer
-my favorite things :pc,making e-boards
+متولد سال هفتادوشش و دانش آموز کانون زبان ایران و چیزهای مورد علاقه ام=کامپیوتر وبرد مدار چاپی
 
 ### Contact me
 
