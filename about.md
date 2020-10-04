@@ -9,7 +9,8 @@ hello,my name is alireza-khajehgee.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I was born in the year seventy-six,Iranian Language Institute,computer engineer
+my favorite things :pc,making e-boards
 
 ### Contact me
 
