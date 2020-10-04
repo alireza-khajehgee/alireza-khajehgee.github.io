@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+alireza-khajehgee borned in IRAN-guilan ili student 
 
 ### More Information
 
